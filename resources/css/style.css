@@ -1,0 +1,18 @@
+html{font-family: Verdana; }
+body{background-color: Black; text-align: center;}
+h1{
+  Font-weight: normal;
+  color: white;
+font-size: 50px;
+}
+h2{
+  color: gray;
+  font-size: 21px
+}
+h3{
+  color: aquamarine;
+font-size: 16px;
+}
+.footer{text-align: right;
+color: gray;
+font-size: 21px;}
